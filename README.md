@@ -8,5 +8,5 @@
 ->Link to city dataset used in the above notebook : https://drive.google.com/file/d/19y3GuDK5AGOMZh5CAHoRmo-c8wBOAaXY/view?usp=sharing
 
 
-The dataset with output of the data in json format is uploaded as Scraped_data above.
+->The dataset with output of the data in json format is uploaded as Scraped_data above.
 
